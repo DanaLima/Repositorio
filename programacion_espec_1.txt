@@ -1,0 +1,4 @@
+1. Registrar información de especialistas.
+2. Programar turnos de atención para cada especialista.
+3. Revisar demanda de pacientes ("horario","especialidad")
+4. Generar cronograma de trabajo de especialistas.
