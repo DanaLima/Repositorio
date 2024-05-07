@@ -1,3 +1,4 @@
 1. Registrar información del paciente.
 2. Designar especialidad a la que se dirige el paciente.
 3. Programar cita con especialista.
+4. Generar ticket de atención.
